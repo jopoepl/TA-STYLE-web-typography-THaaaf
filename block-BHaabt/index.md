@@ -17,3 +17,15 @@ Font Family: [Karla](https://fonts.google.com/specimen/Karla?query=karla)
 - Using CSS resets is necessary.
 - Use semantic tags and keep the nesting and indentation proper.
 - Work on typography in detail.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Assignment II - CSS</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+</body>
+
+</html>
